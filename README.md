@@ -10,7 +10,7 @@ Tried my luck in:
 For now I'm learning Dart in pair with Flutter
 Also can work in Krita, GIMP and a little bit in Figma
 
-### Nowdays projects
+### Current projects
 - [Lifor](https://github.com/ReisG/Lifor)
 
 
