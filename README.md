@@ -1,4 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+Name's Matvej aka fresh-ops or just fresh and I'm really obsessed with minimalist design. 
+Usualy work as frontend developer
+
+### Development kits and skills
+Tried my luck in:
+- Python + Kivy
+- JavaScript + ReactJS
+
+For now I'm learning Dart in pair with Flutter
+Also can work in Krita, GIMP and a little bit in Figma
+
+### Nowdays projects
+- [Lifor](https://github.com/ReisG/Lifor)
+
 
 <!--
 **fresh-ops/fresh-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
