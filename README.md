@@ -13,6 +13,9 @@ Also can work in Krita, GIMP and a little bit in Figma
 ### Current projects
 - [Lifor](https://github.com/ReisG/Lifor)
 
+### Codewars profile:
+[![Codewars](https://www.codewars.com/users/fresh-ops/badges/large)](https://www.codewars.com/users/fresh-ops)
+
 
 <!--
 **fresh-ops/fresh-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
