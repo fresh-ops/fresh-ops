@@ -1,5 +1,5 @@
 ## Hi there 👋
-Name's Matvej aka fresh-ops or just fresh and I'm really obsessed with user interface design. 
+Name's Matvey aka fresh-ops or just fresh and I'm really obsessed with user interface design. 
 Usualy work as frontend developer
 
 ### Development kits and skills
