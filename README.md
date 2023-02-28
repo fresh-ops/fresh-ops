@@ -1,17 +1,11 @@
 ## Hi there 👋
-Name's Matvey aka fresh-ops or just fresh and I'm really obsessed with user interface design. 
-Usualy work as frontend developer
+Name's Matvey. I'm a Trainee Android Developer without commercial expirience. Now I learning how to create applications with Java.
+After this I'm going to learn Kotlin and more modern technologies to create better applications.
 
-### Development kits and skills
-Tried my luck in:
-- Python + Kivy
-- JavaScript + ReactJS
-
-For now I'm learning Dart in pair with Flutter
-Also can work in Krita, GIMP and a little bit in Figma
-
-### Current projects
-- [Lifor](https://github.com/ReisG/Lifor)
+### Other technologies
+1. Python without frameworks
+2. Basics of HTML and CSS
+3. SQL
 
 ### Codewars profile:
 [![Codewars](https://www.codewars.com/users/fresh-ops/badges/large)](https://www.codewars.com/users/fresh-ops)
