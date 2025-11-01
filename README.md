@@ -1,11 +1,17 @@
 ## Hi there 👋
-Name's Matvey. I'm a Trainee Android Developer without commercial expirience. Now I learning how to create applications with Java.
-After this I'm going to learn Kotlin and more modern technologies to create better applications.
+Name's Matvey. I am a student at Novosibirks State University. Keen on frontend development
 
-### Other technologies
-1. Python without frameworks
-2. Basics of HTML and CSS
-3. SQL
+## Technologies
+### Main Stack
+- React
+- TypeScript
+- Zustand
+
+### Additional Skills
+- Java/Kotlin
+- Haskell
+- Python
+- SQLite
 
 ### Codewars profile:
 [![Codewars](https://www.codewars.com/users/fresh-ops/badges/large)](https://www.codewars.com/users/fresh-ops)
