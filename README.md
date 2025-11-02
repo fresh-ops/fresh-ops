@@ -1,5 +1,5 @@
 ## Hi there 👋
-Name's Matvey. I am a student at Novosibirks State University. Keen on frontend development
+Name's Matvey. I am a student at Novosibirsk State University. Keen on frontend development
 
 ## Technologies
 ### Main Stack
